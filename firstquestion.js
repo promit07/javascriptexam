@@ -10,7 +10,6 @@ function validateIdentity(CIN)
             {
                 isValid = false;
                 break;
-                //return "Rejected: Identity pattern shows external links.";
             }
         }
     }
